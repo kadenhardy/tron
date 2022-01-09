@@ -1,3 +1,1 @@
-# tron
-
-# I love motorcycles
+# tron is amazing
